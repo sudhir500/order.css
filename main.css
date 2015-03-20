@@ -1,0 +1,24 @@
+div.roll {
+    height: 200px;
+    width: 300px;
+    border: 1px solid #685D5D;
+    border-radius: 5px;
+    margin: 0px auto;
+    padding: 20px;
+    text-align: center;
+    color: white;	
+	line-height: 195px;
+	font-size: 1.65em;
+	text-transform: uppercase;
+	font-family: arial;
+}
+table {
+    padding-top: 50px;
+}
+table tr td a {
+    font-size: 16px;
+    text-transform: uppercase;
+    padding: 5px;
+    text-decoration: none;
+    font-family: arial;
+}
